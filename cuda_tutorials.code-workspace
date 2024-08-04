@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"memory": "cpp",
+			"span": "cpp",
+			"utility": "cpp",
+			"algorithm": "cpp",
+			"queue": "cpp"
+		}
+	}
+}

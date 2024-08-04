@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "CUDA Debug",
+        "type": "cuda-gdb",
+        "request": "launch",
+        "program": "${workspaceFolder}/build/01_vector_addition/baseline/vector_addition",
+        "args": [],
+        "cwd": "${workspaceFolder}/01_vector_addition/baseline/",
+        "preLaunchTask": "CMake: build"
+      }
+    ]
+  }
